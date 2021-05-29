@@ -1,0 +1,5 @@
+member.rent.min = 10
+member.rent.max = 500
+member.price.discount=5
+vehicle.default.model= sedan
+duration=all

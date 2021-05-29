@@ -1,0 +1,4 @@
+search.result.perpage=10
+search.canexport=true
+search.render=false
+duration= all
