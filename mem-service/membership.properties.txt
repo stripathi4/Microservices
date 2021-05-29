@@ -1,0 +1,5 @@
+member.rent.min = 5
+member.rent.max = 40
+member.price.discount=3.5
+vehicle.default.model= cross over
+duration=all
